@@ -1,0 +1,19 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "A TypeScript playground with opinionated configuration.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsx src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrypopsoff/typescript-playground.git"
+  },
+  "author": "Jerry Haagsma",
+  "license": "MIT",
+  "homepage": "https://github.com/jerrypopsoff/typescript-playground#readme",
+  "devDependencies": {
+    "tsx": "^4.19.1"
+  }
+}
