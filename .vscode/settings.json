@@ -3,7 +3,7 @@
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 80,
   "editor.fontFamily": "Source Code Pro",
-  "editor.rulers": [79],
+  "editor.rulers": [80],
   "editor.scrollBeyondLastLine": false,
   "editor.tabSize": 2,
   "explorer.autoReveal": false,
